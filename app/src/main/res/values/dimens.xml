@@ -3,4 +3,6 @@
     <dimen name="margin_regular">16dp</dimen>
     <dimen name="margin_wide">16dp</dimen>
     <dimen name="text_heading">16sp</dimen>
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
 </resources>
